@@ -1,0 +1,2 @@
+# ChatServer
+可以工作在nginx tcp负载均衡环境中的聊天服务器和客户端 基于陈硕muduo实现 使用redis作为消息队列 mysql作为数据库
